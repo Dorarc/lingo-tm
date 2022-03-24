@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="en" xml:lang="en" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceControlBound="true" ActiveLanguage="en" SourceControlProviderType="Git" ProjectGuid="2da7ba85-2319-42ff-974d-f4fc054f9e07">
+    <ProjectFile Source="Target/Testing.flprj" Target="Target/Testing.flprj" />
+    <TMConnection Connection="../../Desktop/Lingo test - working/Flattening Test new project-2.liprjf/TM/LingoLocal.db" ReadOnly="false" Type="StandAlone" />
+</LingoProject>
